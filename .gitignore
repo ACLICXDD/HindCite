@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/access.log
+data/search_console.csv

@@ -1,0 +1,20 @@
+brand:
+  id: loopwise
+  name: "Loopwise CRM"
+  bank_id: "brand-loopwise"
+  domain: "loopwise.example.com"
+  ground_truth:
+    price: "$49/mo"
+    features:
+      - "pipeline automation"
+      - "email sequencing"
+      - "built-in FAQ schema support"
+  competitors:
+    - "PipelinePro"
+    - "SalesHive"
+  queries:
+    - "best CRM for a 10-person startup"
+    - "cheapest CRM with email automation"
+    - "Loopwise vs PipelinePro pricing"
+    - "CRM with built-in FAQ schema markup"
+    - "top CRM tools for early-stage SaaS founders"

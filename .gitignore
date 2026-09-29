@@ -5,3 +5,6 @@ __pycache__/
 .pytest_cache/
 data/access.log
 data/search_console.csv
+node_modules/
+frontend/dist/
+frontend/.env
